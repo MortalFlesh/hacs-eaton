@@ -1,0 +1,9 @@
+{
+    "domain": "ha-eaton",
+    "name": "Eaton Integration",
+    "documentation": "https://github.com/MortalFlesh/hacs-eaton",
+    "dependencies": [],
+    "codeowners": ["MortalFlesh"],
+    "requirements": [],
+    "iot_class": "calculated"
+}

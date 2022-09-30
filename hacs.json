@@ -1,0 +1,5 @@
+{
+    "name": "Eaton Integration",
+    "render_readme": true,
+    "domains": ["entity"]
+}
